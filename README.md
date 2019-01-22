@@ -1,3 +1,15 @@
+# desc
+这个库吧, 核心就是 Chainable abstract class, 然后就是 ChainedMap & ChainedSet 这两个子类
+的实现. 然后基本就是设置内部的map&set对象. 最终输出的时候会copy出这个内部的对象.
+
+感觉应该是蛮简单的.
+
+## Overview
+
+
+<img src="./notes/overview.jpg" width="800"/>
+
+
 # webpack-chain
 
 [![NPM version][npm-image]][npm-url]
